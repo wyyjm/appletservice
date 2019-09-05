@@ -1,0 +1,33 @@
+published:
+  - app:
+      category: life
+      application: weather
+      name: 今日天气
+      publish_date: 2019-09-01
+      url: /service/weather
+      desc: this is a weather app.
+  - app:
+      category: life
+      application: backup
+      name: 图片备份
+      publish_date: 2019-09-02
+      url: /service/image
+      desc: this is a image backup app.
+  - app:
+      category: life
+      application: stock
+      name: 今日股票
+      publish_date: 2019-09-02
+      url: /service/stock
+      desc: this is a stock app.
+  - app:
+      category: life
+      application: star
+      name: 星座运势
+      publish_date: 2019-09-03
+      url: /service/star
+      desc: this is a star app.
+
+
+developing:
+  - app:
